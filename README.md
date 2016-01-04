@@ -36,6 +36,8 @@ Arguments:
 Returns:
 A new array view of the squeezed ndarray (i.e. a new ndarray object with the same underlying data).
 
+## See Also
+- [`ndarray-unsqueeze`](https://github.com/scijs/ndarray-unsqueeze)
 
 ## License
 &copy; 2016 Ricky Reusser. MIT License.
