@@ -10,6 +10,7 @@ This module takes an input ndarray and removes any dimensions with length 1 or, 
 
 ```javascript
 var ndarray = require('ndarray')
+var squeeze = require('ndarray-squeeze')
 
 squeeze(ndarray([1, 2, 3, 4], [2, 1, 1, 2, 1]))
 // => ndarray([1, 2, 3, 4], [2, 2])
