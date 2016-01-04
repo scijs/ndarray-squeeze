@@ -16,7 +16,7 @@ squeeze(ndarray([1, 2, 3, 4], [2, 1, 1, 2, 1]))
 
 squeeze(ndarray([1, 2, 3, 4], [2, 1, 1, 2, 1]), [1])
 // => ndarray([1, 2, 3, 4], [2, 1, 2, 1])
-``
+```
 
 ## Installation
 
